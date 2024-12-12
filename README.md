@@ -13,7 +13,7 @@ style="display:flex; justify-content:center; align-items:center">
 # v-player
 ---
 
-<img src="sample_example.png" alt="v-player-logo" width="100%" height="200px" style="border-radius:5px; border: 2px solid black"/> 
+<img src="sample_example.png" alt="v-player-logo" width="100%" height="250px" style="border-radius:5px; border: 2px solid black"/> 
 
 
 ##### Video player for react application.
